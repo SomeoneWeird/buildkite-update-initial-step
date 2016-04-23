@@ -1,0 +1,13 @@
+{
+  "org": "myOrg",
+  "token": "abc123",
+  "repositories": {
+    "exclude": [
+      "thisOne"
+    ]
+  },
+  "step": {
+
+  }
+}
+
